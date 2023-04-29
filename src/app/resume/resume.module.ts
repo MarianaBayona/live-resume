@@ -21,7 +21,6 @@ import { FooterComponent } from "../footer/footer.component";
     FontAwesomeModule,
     WelcomeModule,
     ExperienceModule,
-    PostsModule
   ],
   declarations: [ 
     ResumeComponent,
