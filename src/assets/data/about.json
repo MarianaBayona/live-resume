@@ -23,12 +23,12 @@
     ],
     "hobbies": [        
         {
-            "icon": "biking",
-            "title": "Cycling"
+            "icon": "music",
+            "title": "Music"
         },
         {
-            "icon": "dumbbell",
-            "title": "Gym"
+            "icon": "gamepad",
+            "title": "Game"
         },
         {
             "icon": "suitcase-rolling",
