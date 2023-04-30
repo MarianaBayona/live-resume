@@ -10,7 +10,7 @@
     @include display-flex;
 
     background: rgb(2, 0, 36);
-    background: linear-gradient(180deg, rgba(2, 0, 36, 0.6418942577030813) 0%, rgba(0, 0, 0, 0.773546918767507) 25%, rgba(0, 0, 0, 0.9079726890756303) 75%, rgba(0, 0, 0, 0.9924264705882353) 100%);
+    background: linear-gradient(180deg, rgba(245, 205, 228, 0.642) 0%, rgba(0, 0, 0, 0.773546918767507) 25%, rgba(0, 0, 0, 0.9079726890756303) 75%, rgba(0, 0, 0, 0.9924264705882353) 100%);
     width: 100%;
     flex-direction: column;
     justify-content: flex-start;
@@ -284,7 +284,7 @@
 
             span.hashtag {
                 padding: 2px 5px 2px 5px;
-                background-color: #414c73;
+                background-color: #d8154f;
                 border-radius: 5px;
                 margin-right: 10px;
                 margin-top: 10px;

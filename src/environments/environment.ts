@@ -10,8 +10,8 @@ export const environment = {
     name: "Mariana Bayona Terriaga de Almeida",
     birth: "1998-01-19",
     email: "marianabtalmeida@hotmail.com",
-    phone: "+55 11 97594 2124",
-    location: "São Paulo, SP, Brazil"
+    phone: "+55 (11) 97594-2124",
+    location: "São Paulo, SP - Brazil"
   },
   // replace the dummy data below with the real firebase configs
   firebaseConfig: {
