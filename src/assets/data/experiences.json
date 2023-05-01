@@ -13,18 +13,18 @@
                 "city": "São Paulo",
                 "country": "Brasil",
                 "role": "Estágiária",
-                "description": "A <b>Itaú Unibanco S.A.</b> é uma empresa focada em soluções para educação, seu principal produto é um conjunto de soluções para estudos na obtenção da <i>carteira nacional de habilitação (CNH)</i>, entre elas, multimídias, aplicativos on-line, aplicativos móveis, livros, entre outros. <br><br>Na <i>Fácil Tecnologias LTDA</i>, entrei em contato com desenvolvedores seniores, aprendendo as melhores práticas, padrões e como debater idéias e oferecer soluções diversas para o mesmo problema. Foi o ponto de partida, uma oportunidade única de transformar o conhecimento teórico em soluções concretas que estavam sendo usadas por centenas de pessoas todos os dias."
+                "description": "<b>Itaú Unibanco S.A.</b> é o maior banco privado do Brasil, assim como o maior da América Latina, e um dos vinte maiores bancos do mundo em valor de mercado. Está listado na B3 em São Paulo e na NYSE em Nova York. <br><br>No estágio, tive contato contato com engenheiros de software experientes, pude aprender sobre padrões e arquitetura de sistemas. Trabalhei da migração de um sistema mainframe legado para uma arquitetura de microsserviços no ambiente <i>PaaS</i>, atuando no levantamento de requisitos, modelagem de bases de dados and implemntação de APIs em Java."
             },
             {
                 "language": "en",
                 "city": "São Paulo",
                 "country": "Brazil",
                 "role": "Intern",
-                "description": "<b>Itaú Unibanco S.A.</b> is a company focused in solutions for education, its main product is a set of solutions for studying for getting the <i>driver license</i>, among them, there are multimedia, online applications, mobile apps, books, and others.<br><br>At <i>Fácil Tecnologias LTDA</i>, I got in touch with senior developers, learning best practices, patterns, and how to debate ideas and offer various solutions for the very same problem. It was the start point, a unique opportunity to turn theoretical knowledge into concrete solutions that were being used by hundreds of people every day."
+                "description": "<b>Itaú Unibanco S.A.</b> is the largest banking institution in Brazil, as well as the largest in Latin America, and one of the top twenty banks in the world by market value. The bank is listed at the B3 in São Paulo and in NYSE in New York.<br><br>In the internship, I got in touch with experienced software engineers, I was able to learn about patterns and systems architecture. I worked in the migration from a legacy mainframe system to a microservices architecture in the <i>PaaS</i> environment, working on requirements gathering, database modeling and APIs implementation in Java."
             }
         ],
         "technologies": [
-            "Java", "Spring Boot", "REST APIs", "SQL Server", "Apache Kafka", "COBOL", "Puppet", "Jenkins", "SOAP", "Redis"
+            "Java", "Spring Boot", "REST APIs", "SQL Server", "Apache Kafka", "COBOL", "Puppet", "Jenkins", "SOAP", "Redis", "RAML", "Jira", "Git", "Scrum"
         ],
         "medias": [
             {
@@ -59,18 +59,18 @@
                 "city": "São Paulo",
                 "country": "Brasil",
                 "role": "Engenheira de Software Junior",
-                "description": "A <b>E-tática</b> é uma agência especializada em soluções para <i>comércio eletrônico</i>, marketing digital e identidade visual desde 2008, trabalhando com grandes, pequenos e médios negócios, oferecendo para seus clientes, o know-how na integração de seus negócios com <i>Sistemas integrados de gestão empresarial (ERP)</i> e <i>APIs de terceiros</i>, tais como <i>provedores de pagamento personalizados</i>, fazendo a integração do gerenciamento interno da plataforma on-line e da loja física, sendo certificada pelas principais plataformas do mercado.<br><br>Na <i>E-tática </i>, trabalhei para desenvolver soluções personalizadas para clientes do atacado e varejo, valorizando a qualidade e a continuidade dos projetos a médio e longo prazo."
+                "description": "<b>Itaú Unibanco S.A.</b> é o maior banco privado do Brasil, assim como o maior da América Latina, e um dos vinte maiores bancos do mundo em valor de mercado. Está listado na B3 em São Paulo e na NYSE em Nova York. <br><br>Como Engenheira de Software Junior, trabalhei com aplicações bancárias de missão crítica, atuando em todas as etapas do desenvolvimento de software, como levantamento de requisitos, design de arquitetura, implementação e implantação de microsserviços em uma plataforma distribuída, escalável e resiliente."
             },
             {
                 "language": "en",
                 "city": "São Paulo",
                 "country": "Brazil",
                 "role": "Junior Software Engineer",
-                "description": "<b>E-tática</b> is an agency specialized in solutions for <i>e-commerce</i>, digital marketing, and visual identity since 2008, working with large, small, and medium-sized businesses, offering to their clients the know-how in the integration of <i>enterprise resource planning (ERP)</i> and <i>third-party APIs</i>, such as custom <i>payment providers</i>. It does the integration of the internal management of the online platform and physical store, being certified by the main platforms in the market.<br><br>At <i>E-tática</i> I have worked to develop custom solutions for clients wholesale and retail, valuing the quality and continuity of projects in the medium and long term."
+                "description": "<b>Itaú Unibanco S.A.</b> is the largest banking institution in Brazil, as well as the largest in Latin America, and one of the top twenty banks in the world by market value. The bank is listed at the B3 in São Paulo and in NYSE in New York. <br><br>As a Junior Software Engineer, I have worked with mission-critical banking applications, hands-on in all stages of software development, such as requirements gathering, architecture design, implementation and deployment of microservices on a distributed, scalable and resilient platform."
             }
         ],
         "technologies": [
-            "Java", "Spring Boot", "REST APIs", "SQL Server", "Apache Kafka", "COBOL", "Puppet", "Jenkins", "SOAP", "Redis"
+            "Java", "RedHat OpenShift", "PaaS", "Spring Boot", "REST APIs", "SQL Server", "Apache Kafka", "Puppet", "Jenkins", "SOAP", "Redis", "RAML", "Jira", "Git", "Scrum"
         ],
         "medias": [
             {
@@ -104,18 +104,18 @@
                 "city": "São Paulo",
                 "country": "Brasil",
                 "role": "Engenheira de Software Pleno",
-                "description": "A <b>Deevo Studio</b> é uma agência especializada em <i>web design</i> e <i>desenvolvimento</i> com um extenso portfólio de casos de sucesso, resultado de mais de <i>20 anos</i> de experiência com diversas agências e no mercado corporativo. Suas criações envolvem tudo, desde o desenvolvimento da marca e identidade visual, até a criação de aplicativos e sites, com um amplo conhecimento do Wordpress e das tecnologias da web. <br><br>Na <i>Deevo Studio</i>, tive a chance de usar o conhecimento anterior de <i>back-end</i> combinado com a experiência prática no desenvolvimento JAVA para aceitar o desafio de iniciar um <i>Departamento de Desenvolvimento Android</i> na empresa, fornecendo complexos <i>Aplicativos Android</i> para empresas no Brasil."
+                "description": "<b>Itaú Unibanco S.A.</b> é o maior banco privado do Brasil, assim como o maior da América Latina, e um dos vinte maiores bancos do mundo em valor de mercado. Está listado na B3 em São Paulo e na NYSE em Nova York. <br><br>Atualmente, estou trabalhando na migração de microsserviços no ambiente <i>PaaS</i> para a Cloud Pública da <i>AWS</i> e na modelagem de uma arquitetura escalável, resiliente e com alta disponibilidade."
             },
             {
                 "language": "en",
                 "city": "São Paulo",
                 "country": "Brazil",
                 "role": "Software Engineer",
-                "description": "At <b>Deevo Studio</b> is a company specializing in <i>web design</i> and <i>development</i> with an extensive portfolio of cases, the result of <i>20 years</i> of experience with other agencies and the corporate market. Their creations involve everything from brand development and visual identity to the creation of applications and websites, with a wide knowledge of Wordpress and Web Technologies.<br><br>At <i>Deevo Studio</i>, I had the chance to use the previously back-end knowledge combined with practical experience in JAVA development to accept the challenge to start an <i>Android Development Department</i> in the company, delivering complex <i>Android Applications</i> to companies in Brazil."
+                "description": "<b>Itaú Unibanco S.A.</b> is the largest banking institution in Brazil, as well as the largest in Latin America, and one of the top twenty banks in the world by market value. The bank is listed at the B3 in São Paulo and in NYSE in New York. <br><br>Currently, I'm working on migrating microservices in the <i>PaaS</i> environment to the <i>AWS Public Cloud</i> and modeling a scalable, resilient and highly available architecture."
             }
         ],
         "technologies": [
-            "Java", "Spring Boot", "REST APIs", "SQL Server", "Apache Kafka", "COBOL", "Puppet", "Jenkins", "SOAP", "Redis"
+            "Java", "AWS", "Python", "Kubernets", "RedHat OpenShift", "PaaS", "Spring Boot", "REST APIs", "SQL Server", "Apache Kafka", "Puppet", "Jenkins", "SOAP", "Redis", "RAML", "Jira", "Git", "Scrum"
         ],
         "medias": [
             {
