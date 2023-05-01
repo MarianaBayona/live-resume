@@ -2,7 +2,7 @@ export const environment = {
   production: true,
   // replace the data below with your personal data
   personal: {
-    caricature: "marianabayona-illustration@2x.png",
+    caricature: "gbastos-illustration@2x.png",
     name: "Mariana Bayona Terriaga de Almeida",
     birth: "1998-01-19",
     email: "marianabtalmeida@hotmail.com",
