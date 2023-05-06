@@ -29,7 +29,7 @@ export class AppComponent implements OnInit {
     ]);
 
     this.metaTagService.updateTag(
-      { name: "description", content: "Hello, I'm a software engineer with experince in Java and AWS Cloud. Find out more in my live-resume!" }
+      { name: "description", content: "Hello, I'm a software engineer with experience in Java and AWS Cloud. Find out more in my live-resume!" }
     );
   }
 }
