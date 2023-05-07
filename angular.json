@@ -101,7 +101,7 @@
           },
           "configurations": {
             "production": {
-              "browserTarget": "live-resume:build:en"
+              "browserTarget": "live-resume:build:production"
             },
             "en": {
               "browserTarget": "live-resume:build:en"
