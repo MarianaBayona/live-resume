@@ -13,6 +13,7 @@ import { Injectable } from "@angular/core";
 import localeEn from "@angular/common/locales/en";
 import localePt from "@angular/common/locales/pt";
 import localePtExtra from "@angular/common/locales/extra/pt";
+import { LOCALE_ID, Inject } from "@angular/core";
 
 import { AngularFireModule } from "@angular/fire/compat";
 import { AngularFireDatabaseModule } from "@angular/fire/compat/database";
@@ -50,6 +51,10 @@ registerLocaleData(localePt, "pt-BR", localePtExtra);
     {
       provide: HAMMER_GESTURE_CONFIG,
       useClass: HammerConfig,
+
+    },
+    {
+      provide: LOCALE_ID, useValue: 'en',
     },
   ]
 })

@@ -2,6 +2,7 @@ import { Directive, ElementRef, Input, OnInit} from "@angular/core";
 import { LOCALE_ID, Inject } from "@angular/core";
 import { EllipsisPipe } from "../pipe/ellipsis.pipe";
 
+
 @Directive({ selector: "[appInternationalization]" })
 export class InternationalizationDirective {
 
@@ -28,11 +29,13 @@ export class InternationalizationDirective {
     }
 
     private retrievePropertyValueByLocation(): any {
+        //console.log("VALOR DO LOCALE: " + this.locale)
+        //this.locale = "pt";
 
         if(this._data) {
 
             const value: string[] = this._data
-                .filter(element => element.language === (this.locale || "en"))
+                .filter(element => element.language === (this.locale || "en-US"))
                 .map(element => element[this.property]) || [""];
 
             return this.ellipsis > 0 ? new EllipsisPipe().transform(value[0], this.ellipsis) : value;
